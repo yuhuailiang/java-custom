@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/design-mode/design-mode.iml" filepath="$PROJECT_DIR$/design-mode/design-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-proxy/dynamic-proxy.iml" filepath="$PROJECT_DIR$/dynamic-proxy/dynamic-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-custom.iml" filepath="$PROJECT_DIR$/java-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logging-aop/logging-aop.iml" filepath="$PROJECT_DIR$/logging-aop/logging-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/netty-client/netty-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/netty-server/netty-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorted-algorithm/sorted-algorithm.iml" filepath="$PROJECT_DIR$/sorted-algorithm/sorted-algorithm.iml" />
+    </modules>
+  </component>
+</project>
